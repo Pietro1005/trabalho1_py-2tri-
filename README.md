@@ -1,4 +1,6 @@
-Funcionalidades:
+# trabalho1_py-2tri-
+
+Funcionalidades
 Sistema de dicas: A cada 3 tentativas, mostra uma faixa onde o número está
 
 Limite de tentativas: Máximo de 10 tentativas por jogo
